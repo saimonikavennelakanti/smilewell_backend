@@ -1,0 +1,6 @@
+calculus
+caries
+gingivitis
+hypodontia
+tooth_discolation
+ulcer
